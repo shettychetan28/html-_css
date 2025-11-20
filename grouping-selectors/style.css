@@ -1,0 +1,9 @@
+.primary{background-color: black;
+color: white;
+margin-right: 5px;}
+
+.secondary{background-color: yellow;}
+
+.primary,
+.secondary{font-size: 28px;
+font-family: Helvetica, 'Times New Roman', sans-serif} 
